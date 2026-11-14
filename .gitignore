@@ -1,0 +1,29 @@
+# IAR / build outputs
+**/Obj/
+**/List/
+**/Exe/*.out
+**/Exe/*.sim
+**/*.o
+**/*.pbd
+**/*.pbi
+**/*.xcl
+**/*.dep
+**/*.browse
+**/*.sfr
+
+# IAR local settings / debugger
+**/settings/*.dni
+**/settings/*.dbgdt
+**/settings/*.wsdt
+**/settings/*.cspy.bat
+**/settings/*.crun
+**/Backup*
+
+# IDE / OS
+.vscode/
+.idea/
+*.suo
+*.user
+Thumbs.db
+Desktop.ini
+.DS_Store
